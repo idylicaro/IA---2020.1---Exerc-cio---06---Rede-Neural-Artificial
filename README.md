@@ -1,0 +1,1 @@
+# IA---2020.1---Exerc-cio---06---Rede-Neural-Artificial
